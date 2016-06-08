@@ -1,0 +1,11 @@
+[ignore]
+.*/fbjs/*
+
+[include]
+
+[libs]
+
+[options]
+
+; esproposal.class_static_fields=enable
+; esproposal.decorators=ignore
